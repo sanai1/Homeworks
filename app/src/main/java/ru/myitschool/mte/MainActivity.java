@@ -42,6 +42,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void btn_stop(View view) {
         go = false;
-        binding.numIteration.setText("текст");
+        binding.numIteration.setText("0");
     }
 }
